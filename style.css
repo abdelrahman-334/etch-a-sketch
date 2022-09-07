@@ -1,0 +1,27 @@
+#container
+{
+    display: flex;
+    flex-direction: column;
+    border: solid;
+}
+#grid
+{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    max-width: 960px;
+}
+.change
+{
+    background-color: black;
+}
+#buttons
+{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+button
+{
+    padding:24px;
+}
